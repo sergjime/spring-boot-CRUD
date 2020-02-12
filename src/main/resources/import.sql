@@ -1,0 +1,6 @@
+INSERT INTO correos (asunto, mensaje, remitente, destinatario, fecha_creacion) VALUES("Asunto1", "mensaje1", "remitente1@gmail.com", "destinatario1@gmail.com", "2018-01-01");
+INSERT INTO correos (asunto, mensaje, remitente, destinatario, fecha_creacion) VALUES("Asunto2", "mensaje2", "remitente2@gmail.com", "destinatario2@gmail.com", "2020-08-09");
+INSERT INTO correos (asunto, mensaje, remitente, destinatario, fecha_creacion) VALUES("Asunto3", "mensaje3", "remitente3@gmail.com", "destinatario3@gmail.com", "2019-07-06");
+INSERT INTO correos (asunto, mensaje, remitente, destinatario, fecha_creacion) VALUES("Asunto4", "mensaje4", "remitente4@gmail.com", "destinatario4@gmail.com", "2016-02-06");
+INSERT INTO correos (asunto, mensaje, remitente, destinatario, fecha_creacion) VALUES("Asunto5", "mensaje5", "remitente5@gmail.com", "destinatario5@gmail.com", "2017-12-24");
+INSERT INTO correos (asunto, mensaje, remitente, destinatario, fecha_creacion) VALUES("Asunto6", "mensaje6", "remitente6@gmail.com", "destinatario6@gmail.com", "2019-10-10");
